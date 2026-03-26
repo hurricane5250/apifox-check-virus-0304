@@ -66,7 +66,7 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/<your-name>/apifox-check-virus-0304.git
+git clone git@github.com:hurricane5250/apifox-check-virus-0304.git
 cd apifox-check-virus-0304
 ```
 
